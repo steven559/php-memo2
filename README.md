@@ -8,6 +8,9 @@ Consignes :
 
 - Afficher dans un echo le contenu de la variable y à l'intérieur ( à la fin du texte ) du texte suivant "y vaux "
 
+- Creer à la suite deux variables : $m et $n, leur assigner respectivement les valeurs 5 et 7 , puis afficher l'expression
+$m + $n en utilisant echo
+
 
 
 Théorie :
